@@ -1,0 +1,7 @@
+.feito {
+    background-color: gray;
+}
+
+.completed {
+    text-decoration: line-through solid black;
+}
